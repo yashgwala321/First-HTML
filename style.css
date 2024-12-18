@@ -1,0 +1,487 @@
+* {
+    margin: 0;
+    padding: 0;    
+}
+
+.box {
+    height: 60px;
+    width: 100%;
+    background-color: rgb(5, 5, 60);
+    padding-top: 20px;
+    text-align: center;
+}
+
+.navbar {
+    padding-left: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Search {
+    height: 25px;
+    width: 40em;
+    border-radius: 8px;
+    border-color:rgb(5, 5, 60);
+    text-align: center;
+}
+
+/* Car Make*/
+
+.carmake {
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    font-family: fantasy;
+    color:  rgb(5, 5, 60);
+}    
+
+/* button */
+
+.button {
+    height: 10em;
+    width: 100%;
+    padding-top: 20px;
+}
+
+/* ----First Row----*/
+
+#first-row {
+    height: 40px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.one {
+    height: 30px;
+    width: 14em;
+    border-radius: 15px;
+    border-color:black ;
+    margin-left: 35px;
+    border: none;
+}
+
+.two {
+    height: 30px;
+    width: 14em;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 10em;
+    border: none;
+}
+
+.three {
+    height: 30px;
+    width: 14em;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 10em;
+    border: none;
+}
+
+.forth {
+    height: 30px;
+    width: 14em;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 10em;
+    border: none;
+}
+
+.fifth {
+    height: 30px;
+    width: 14em;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 10em;
+    border: none;
+}
+
+/* second-Row*/
+
+#second-row {
+    height: 40px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.one-1 {
+    height: 30px;
+    width: 14em;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 35px;
+    border: none;
+}
+
+.two-2 {
+    height: 30px;
+    width: 14em;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 10em;
+    border: none;
+}
+
+.three-3 {
+    height: 30px;
+    width: 14em;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 10em;
+    border: none;
+}
+
+.forth-4 {
+    height: 30px;
+    width: 14em;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 10em;
+    border: none;
+}
+
+.fifth-5 {
+    height: 30px;
+    width: 14em;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 10em;
+    border: none;
+}
+
+#therd-row {
+    height: 40px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+/* Shop Now */
+
+#shop {
+    height: 45px;
+    width: 100%;
+}
+
+.shop-now {
+     align-items: center;
+     width: 9em;
+     height: 45px;
+     margin-left: 49em;
+     border-radius: 20px;
+     background-color: yellow;
+     color: black;
+     border: 1px solid black;
+}
+
+/* image */
+
+#image {
+    height: 400px;
+    padding-top: 25px;
+    display: flex;
+    background-color: #cacfd2;
+}
+
+.box-one {
+    margin-left: 35px;
+    height: 380px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.buy{
+    display: block;
+    width: 12em;
+    height: 28px;
+    margin-left: 55px;
+    margin-top: 10px;
+    background-color: orange;
+    border-radius: 5px; 
+    border: none;
+} 
+
+
+.box-two {
+    margin-left: 120px;
+    height: 380px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.buy-1 {
+    display: block;
+    width: 12em;
+    height: 28px;
+    margin-left: 59px;
+    margin-top: 10px;
+    background-color: orange;
+    border-radius: 5px; 
+    border: none;
+}
+
+.box-three {
+    margin-left: 120px;
+    height: 380px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.buy-2 {
+    display: block;
+    width: 12em;
+    height: 28px;
+    margin-left: 58px;
+    margin-top: 10px;
+    background-color: orange;
+    border-radius: 5px; 
+    border: none;
+}
+
+.box-forth {
+    margin-left: 120px;
+    height: 380px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif5;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.buy-3 {
+    display: block;
+    width: 12em;
+    height: 28px;
+    margin-left: 55px;
+    margin-top: 10px;
+    background-color: orange;
+    border-radius: 5px; 
+    border: none;
+}
+
+.img-one {
+    height: 250px;
+    border-radius: 20px;
+}
+
+.img-two {
+    height: 250px;
+    border-radius: 20px;
+}
+
+.img-three {
+    height: 250px;
+    border-radius: 20px;
+}
+
+.img-forth {
+    height: 250px;
+    border-radius: 20px;
+}
+
+/* second Box */
+
+#image-2 { 
+    height: 420px;
+    padding-top: 35px;
+    display: flex;
+    background-color: #cacfd2;
+}
+
+.box-1 {
+    height: 380px;
+    margin-left: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.buy-one {
+    display: block;
+    width: 12em;
+    height: 28px;
+    margin-left: 55px;
+    margin-top: 10px;
+    background-color: orange;
+    border-radius: 5px; 
+    border: none;
+}
+
+.box-2 {
+    height: 380px;
+    margin-left: 120px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    border-radius: 20px
+}
+
+.buy-two {
+    display: block;
+    width: 12em;
+    height: 28px;
+    margin-left: 55px;
+    margin-top: 10px;
+    background-color: orange;
+    border-radius: 5px; 
+    border: none;
+}
+
+.box-3 {
+    height: 380px;
+    margin-left: 130px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    border-radius: 20px
+}
+
+.buy-three {
+    display: block;
+    width: 12em;
+    height: 28px;
+    margin-left: 60px;
+    margin-top: 10px;
+    background-color: orange;
+    border-radius: 5px; 
+    border: none;
+}
+
+.box-4 {
+    height: 380px;
+    margin-left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.buy-four{
+    display: block;
+    width: 12em;
+    height: 28px;
+    margin-left: 70px;
+    margin-top: 10px;
+    background-color: orange;
+    border-radius: 5px; 
+    border: none;
+}
+
+.headlight {
+    height: 250px;
+    border-radius: 20px;
+}
+
+.light {
+    height: 250px;
+    border-radius: 20px;
+}
+
+.plug {
+    height: 250px;
+    border-radius: 20px;
+}
+
+.wheels {
+    height: 250px;
+    border-radius: 20px;
+}
+
+#box {
+    height: 45px;
+    width: 100%;
+}
+
+.Articles {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+
+/* thamnel */
+
+#photo {
+    height: 450px;
+    width: 100%;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.thamnel {
+    height: 400px;
+    width: 650px;
+    padding-top: 25px;
+    padding-left: 30px;
+}
+
+#photo-2 {
+    height: 450px;
+    width: 100%;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.box-01 {
+   height: 450px;
+   width: 800px;
+}
+
+.box-02 {
+    height: 450px;
+    width: 800px;
+}
+
+.image-02 {
+    height: 450px;
+    width: 46em;
+}
+
+#bg {
+    height: 500px;
+    width: 100%;
+    margin-top: 35px;
+}
+
+.bg-photo {
+    height: 500px;
+    width: 100%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    height: 420px;
+    width: 100%;
+    margin-top: 35px;
+}
+
+#footer-box {
+    height: 100%;
+    width: 100%px;
+    margin: 25px;
+    display: flex;
+}
+
+.Quick{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 25px;
+    font-size: 18px;
+}
+
+.underbox-1 {
+    height: 100%;
+    width: 250px;
+    margin-left: 15px;
+}
+
+.underbox-2 {
+    height: 100%;
+    width: 250px;
+    margin-left: 55px;
+}
+
+ 
